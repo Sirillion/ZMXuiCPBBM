@@ -25,4 +25,6 @@
 		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='SMXcurrency']/sprite[@name='frame']/@size">404,30</set>
 		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='SMXcurrency']/label[@name='currency']/@pos">205,-9</set>
 
+		<set xpath="/windows/window[@name='windowForgeInput']/panel/panel/rect/rect[@name='resources']/@pos">-280,45</set>
+
 </configs>

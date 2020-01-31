@@ -3,9 +3,9 @@
 <xml>
 	<ModInfo>
 		<Name value="SMXuiBBM" />
-		<Description value="SMXuiBBM is a big bag conversion modlet for SMXui" />
+		<Description value="SMXuiBBM is a big bag conversion modlet for SMXui." />
 		<Author value="Sirillion" />
-		<Version value="A18b152r1" />
+		<Version value="18.3.r2" />
 		<Website value="http://www.nexusmods.com/7daystodie/mods/22/?" />
 	</ModInfo>
 </xml>
