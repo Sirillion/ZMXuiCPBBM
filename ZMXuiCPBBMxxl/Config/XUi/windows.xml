@@ -1,0 +1,26 @@
+<ZMXuiBBMxxl name="windows.xml">
+
+<!--	// SMX // Big Backpack XXL Window Conversion -->
+
+		<set xpath="/windows/window[@name='windowBackpack']/@size">646,750</set>
+
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/sprite[@name='SMXuiWindowBackground']/@size">661,750</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/sprite[@name='SMXuiWindowHeader']/@size">661,80</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/label[@name='windowName']/@size">661,80</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/label[@name='windowName']/@pos">330,-38</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/sprite[@name='SMXuiSeparationLineHeader']/@size">5,621</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/sprite[@name='SMXuiVerticalDivider']/@pos">581,-90</set>
+
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/rect[@name='containerControl']/@pos">616,0</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='header']/rect[@name='containerControl']/smxui_stashbuttons_combobox/@value_max">110</set>
+
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='content']/grid[@name='inventory']/@cols">10</set>
+
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='SMXuiCurrency']/sprite[@name='background']/@size">456,30</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='SMXuiCurrency']/sprite[@name='frame']/@size">458,30</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='SMXuiCurrency']/label[@name='currency']/@pos">259,-9</set>
+
+		<set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@rows">12</set>
+		<set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cols">11</set>
+
+</ZMXuiBBMxxl>
