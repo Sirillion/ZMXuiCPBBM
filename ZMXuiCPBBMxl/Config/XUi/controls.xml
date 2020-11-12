@@ -2,6 +2,7 @@
 
 <!--	// SMX // Big Backpack XL Control Conversion -->
 
+		<set xpath="/controls/smxui_backpack_itemstack_72/rect/sprite[@name='backgroundMain2']/@size">44,44</set>
 		<set xpath="/controls/smxui_backpack_itemstack_72/rect/sprite[@name='backgroundMain']/@size">47,32</set>
 		<set xpath="/controls/smxui_backpack_itemstack_72/rect/sprite[@name='background']/@size">53,53</set>
 
@@ -28,7 +29,9 @@
 		<set xpath="/controls/smxui_backpack_itemstack_72/rect/sprite[@name='cancel']/@size">52,52</set>
 		<set xpath="/controls/smxui_backpack_itemstack_72/rect/sprite[@name='assembleIcon']/@size">36,36</set>
 
+		<set xpath="/controls/smxui_lootwindow_itemstack_65/rect/sprite[@name='backgroundMain2']/@size">44,44</set>
 		<set xpath="/controls/smxui_lootwindow_itemstack_65/rect/sprite[@name='backgroundMain']/@size">47,32</set>
+		<set xpath="/controls/smxui_lootwindow_itemstack_65/rect/sprite[@name='backgroundMain']/@pos">4,-36</set>
 		<set xpath="/controls/smxui_lootwindow_itemstack_65/rect/sprite[@name='background']/@size">53,53</set>
 
 		<set xpath="/controls/smxui_lootwindow_itemstack_65/rect/texture[@name='backgroundTexture']/@size">45,45</set>

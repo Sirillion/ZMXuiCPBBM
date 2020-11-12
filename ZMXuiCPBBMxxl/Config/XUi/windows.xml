@@ -16,9 +16,9 @@
 
 		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='content']/grid[@name='inventory']/@cols">10</set>
 
-		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='SMXuiCurrency']/sprite[@name='background']/@size">456,30</set>
-		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='SMXuiCurrency']/sprite[@name='frame']/@size">458,30</set>
-		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/panel[@name='SMXuiCurrency']/label[@name='currency']/@pos">259,-9</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/rect[@name='SMXuiCurrency']/sprite[@name='background']/@size">456,30</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/rect[@name='SMXuiCurrency']/sprite[@name='frame']/@size">458,30</set>
+		<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXuiWindowBackpack']/rect[@name='SMXuiCurrency']/label[@name='currency']/@pos">259,-10</set>
 
 		<set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@rows">12</set>
 		<set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cols">11</set>
