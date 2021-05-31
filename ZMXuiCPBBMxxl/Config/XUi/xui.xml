@@ -4,15 +4,16 @@
 
 		// EAC:				Friendly
 
-		// VERSION:			19.2.Release1
+		// VERSION:			r19.rc1
 
-		// BUILD:			A19.2
+		// BUILD:			A19.5
 
 		// DISCLAIMER:		Please be advised that this modlet is intended for use with the build mentioned above. That said it may very well be that
 							it can be used with other builds with little to no risk of failure. It all depends on the standard files being updated or not
 							and you can verify this by looking at the date of the standard files when an update have occured.
 
 		// MOD DESCRIPTION:	The purpose of this modlet is to provide an even bigger backpack for those hoarders out there. It will give you a 110 slot inventory.
+							It can be further increased by adding the ZMXuiCPBBMxxxl modlet and will then give you a 165 slot inventory. (Not yet available!)
 
 		// DEPENDENCIES:	SMXlib, ZMXuiCPBBM, ZMXuiCPBBMxl.
 
