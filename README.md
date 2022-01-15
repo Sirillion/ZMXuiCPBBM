@@ -6,7 +6,7 @@
 
 **Description:**
 
-ZMXuiCPBBM is a big bag conversion mod for SMXui. It consists of three modlets: ZMXuiCPBBM (63s), ZMXuiCPBBMxl (99s) & ZMXuiCPBBMxxl (110s). These modlets are dependant on each other so if you want to use 110 slots just keep them all but it will scale down the UI a bit to fit on screen. If you want to use 99 slots delete ZMXuiCPBBMxxl. If you want to use 63 slots delete the other two.
+ZMXuiCPBBM is a big bag conversion mod for SMXui. ZMXuiCPBBM (63 slots)
 
 > Dependencies: SMXui.
 
