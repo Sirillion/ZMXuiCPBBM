@@ -4,7 +4,7 @@
 
 		// EAC:				Non Friendly, SMX requires EAC to be DISABLED.
 
-		// VERSION:			r20.rc1
+		// VERSION:			r20.rc2
 
 		// BUILD:			A20.0
 
@@ -50,14 +50,18 @@
 
 <!--	// SMX // Big Backpack Window Conversion -->
 
-		<set xpath="/windows/window[@name='windowBackpack']/@width">606</set>
-		<set xpath="/windows/window[@name='windowBackpack']/smxlib_window_design/@width">606</set>
-		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@width">496</set>
+		<!-- SMX COMMENT: BBM Conversions can be further manipulated by following the comments on each line. -->
+		<set xpath="/windows/window[@name='windowBackpack']/@width">606</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
+		<set xpath="/windows/window[@name='windowBackpack']/smxlib_window_design/@width">606</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
+		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@width">496</set> <!-- SMX COMMENT: This number = cell_width x cols + 20 -->
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@rows">9</set>
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@cols">7</set>
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@cell_width">68</set>
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@cell_height">68</set>
-		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_menu_right/@width">606</set>
-		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_menu_right_inventory/@width">606</set>
+		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_menu_right/@width">606</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
+		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_menu_right_inventory/@width">606</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
+
+		<set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@rows">9</set> <!-- SMX COMMENT: The sum of this number when multiplied with the one below must be equal to or more than cols x rows(from the calculation above) + 20 -->
+		<set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cols">10</set> <!-- SMX COMMENT: The sum of this number when multiplied with the one above must be equal to or more than cols x rows(from the calculation above) + 20 -->
 
 </ZMXuiCPBBM>
