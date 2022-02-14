@@ -1,5 +1,5 @@
-# ZMXuiCPBBM - THE 63 SLOT BACKPACK EXTENSION MODLET
-> Verified to work with: A20.0B238 & A20.1B5
+# ZMXuiCPBBM - THE 100 SLOT SCROLLABLE BACKPACK EXTENSION MODLET
+> Verified to work with: A20.2B2
 
 > Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
@@ -10,10 +10,10 @@
 
 With the release of A20 SMXhud has now evolved into the world of Harmony. This means that it does now mod deeper than ever before and that opens the door for more and better features. On the flip side this means it is no longer EAC friendly, so turn EAC off.
 
-ZMXuiCPBBM converts the backpack into a 63 slot version for SMXui.
+ZMXuiCPBBM converts the backpack into a 100 slot scrollable version for SMXui. (HUGE thanks for Laydor for the engine coding!)
 
 <p align="center">
-  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1642640346-564208851.jpeg" width="1080" title="ZMXuiCPBBM - 63 Slot Backpack - A20">
+  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1644864516-1130718985.jpeg" width="1080" title="ZMXuiCPBBM - 100 Slot Scrollable Backpack - A20">
 </p>
 
 
