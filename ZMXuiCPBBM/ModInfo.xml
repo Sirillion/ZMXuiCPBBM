@@ -3,9 +3,9 @@
 <xml>
 	<ModInfo>
 		<Name value="ZMXuiCPBBM" />
-		<Description value="An extension modlet module for SMXui that converts the backpack to a 63 slot inventory." />
+		<Description value="An extension modlet module for SMXui that converts the backpack to a scrollable 100 slot inventory." />
 		<Author value="Sirillion" />
-		<Version value="r20.rc2" />
+		<Version value="r20.rc1" />
 		<Website value="http://www.nexusmods.com/7daystodie/mods/22/?" />
 	</ModInfo>
 </xml>

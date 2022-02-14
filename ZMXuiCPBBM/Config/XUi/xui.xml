@@ -1,8 +1,0 @@
-<ZMXuiCPBBM name="XUi/xui.xml">
-
-<!--	// SMX // Big Backpack Window Conversion - Scale Reducer -->
-
-		<set xpath="/xui/ruleset[@name='default']/@stackpanel_scale">1.00</set>
-
-
-</ZMXuiCPBBM>
