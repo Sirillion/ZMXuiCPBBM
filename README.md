@@ -3,7 +3,7 @@
 
 > Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
-> Compatibility: Will probably work with most mods that doesn't modify the same windows in the XUI files.
+> Compatibility: Will probably work with most mods that doesn't modify the same windows in the XUI files. Will likely not work with mods that modify containers.
 
 
 ## **DESCRIPTION:**
