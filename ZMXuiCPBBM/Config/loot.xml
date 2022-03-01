@@ -1,7 +1,19 @@
 <ZMXuiCPBBM name="loot.xml">
 
+<!--	// SMX // Searchable Container Size Conversions -->
+
+		<!-- SMX COMMENT: Due to adding the searchable container mod we need to fix the width of the containers to 8 wide -->
+		<set xpath="/lootcontainers/lootcontainer[@size='6,1']/@size">8,1</set>			<!-- SMX COMMENT: Adjusts from  6 SLOTS to  8 SLOTS -->
+		<set xpath="/lootcontainers/lootcontainer[@size='6,2']/@size">8,2</set>			<!-- SMX COMMENT: Adjusts from 12 SLOTS to 16 SLOTS -->
+		<set xpath="/lootcontainers/lootcontainer[@size='6,3']/@size">8,3</set>			<!-- SMX COMMENT: Adjusts from 18 SLOTS to 24 SLOTS -->
+		<set xpath="/lootcontainers/lootcontainer[@size='6,4']/@size">8,3</set>			<!-- SMX COMMENT: Adjusts from 24 SLOTS to 24 SLOTS -->
+		<set xpath="/lootcontainers/lootcontainer[@size='7,2']/@size">8,2</set>			<!-- SMX COMMENT: Adjusts from 14 SLOTS to 16 SLOTS -->
+		<set xpath="/lootcontainers/lootcontainer[@size='7,4']/@size">8,4</set>			<!-- SMX COMMENT: Adjusts from 28 SLOTS to 32 SLOTS -->
+
+
 <!--	// SMX // Player Dropped Backpack Size Conversion -->
 
-		<set xpath="/lootcontainers/lootcontainer[@id='2']/@size">11,11</set>
+		<!-- SMX COMMENT: Adding more slots means we need to add more room in the bag that the player drops upon death. (Minimum: BagSize + 20) -->
+		<set xpath="/lootcontainers/lootcontainer[@id='2']/@size">11,11</set>			<!-- SMX COMMENT: Adjusts from 70 SLOTS to 121 SLOTS -->
 
 </ZMXuiCPBBM>

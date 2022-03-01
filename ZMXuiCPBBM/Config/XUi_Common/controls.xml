@@ -5,4 +5,8 @@
 		<!-- SMX COMMENT: BBM Locked Slots. -->
 		<set xpath="/controls/smxui_window_design_menu_right_inventory/rect[@name='smxui_window_menu_content']/rect[@name='smxui_container_options']/smxui_lockedslots_combobox_vertical[@name='cbxLockedSlots']/@value_max">100</set> <!-- SMX COMMENT: This number = NEW BAGSIZE -->
 
+		<set xpath="/controls/smxui_window_design_menu_right_inventory/rect[@name='smxui_window_menu_content']/rect[@name='smxui_container_options']/button[@name='btnMoveFillStacks']/@pos">23,-60</set>
+		<set xpath="/controls/smxui_window_design_menu_right_inventory/rect[@name='smxui_window_menu_content']/rect[@name='smxui_container_options']/button[@name='btnMoveSmart']/@pos">23,-135</set>
+		<set xpath="/controls/smxui_window_design_menu_right_inventory/rect[@name='smxui_window_menu_content']/rect[@name='smxui_container_options']/button[@name='btnMoveAll']/@pos">23,-210</set>
+
 </ZMXuiCPBBM>
