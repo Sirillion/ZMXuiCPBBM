@@ -1,5 +1,5 @@
 # ZMXuiCPBBM - THE 100 SLOT SCROLLABLE BACKPACK EXTENSION MODLET
-> Verified to work with: A20.2B2
+> Verified to work with: A20.3B3
 
 > Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
@@ -13,7 +13,7 @@ With the release of A20 SMXhud has now evolved into the world of Harmony. This m
 ZMXuiCPBBM converts the backpack into a 100 slot scrollable version for SMXui. (HUGE thanks for Laydor for the engine coding!)
 
 <p align="center">
-  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1644864516-1130718985.jpeg" width="1080" title="ZMXuiCPBBM - 100 Slot Scrollable Backpack - A20">
+  <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_03/A20.3_2022-03-01_01-10-49.jpg.be42c7c94d329b76c358b27f9d9bfac8.jpg" width="1080" title="ZMXuiCPBBM - 100 Slot Scrollable, searchable Backpack - A20">
 </p>
 
 
@@ -53,9 +53,13 @@ Have fun! :)
 
 As of A20 I decided to move SMX into the lands of Harmony and with that digging even deeper into what we can do with modding the game. This requires knowledge that I do not possess enough of to be able to continue working on this on my own. As a result the team has grown and we have added some supernerds that know this stuff.
 
-> Main Credits: Sirillion (main developer/designer/xml/coding), sphereii (developer/coding), TormentedEmu (developer/coding)
+> Main Credits:
+> - Sirillion (main developer/designer/xml/coding)
+> - sphereii (developer/coding)
+> - TormentedEmu (developer/coding)
+> - Laydor (developer/coding)
 
-> Contributors: Laydor(code), Mumpfy(art)
+> Contributors: Mumpfy(art)
 
 
 ## **NEED SUPPORT?**
